@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">game-app</string>
+    <string name="restart_text">want to restart?</string>
+    <string name="lost_string">you have lost!</string>
+</resources>
